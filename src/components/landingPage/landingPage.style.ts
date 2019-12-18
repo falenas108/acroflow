@@ -3,9 +3,6 @@ import {BACKGROUND_COLOR} from '../../config/styles';
 
 export default () => {
     return StyleSheet.create({
-        contentContainer: {
-            flex: 1,
-        },
         poseContainer: {
             alignItems: 'center',
             flex: 1,
